@@ -1,3 +1,30 @@
-.bk azul {
-    background: #c71d1d
+
+
+.bk-amarelo {
+    background: #f8e003;
+    transition: all 2s;
+}
+
+.bk-amarelo:hover {
+    background-color: green;
+}
+
+.bk-azul {
+   background: #02adfc;
+   transition: all 2s;
+}
+
+.bk-azul:hover {
+    background-color: red;
+
+}
+
+.bk-amarelo{
+    height: 600px;
+}
+
+
+.gfgf{
+    width: 100px;
+    height: 100px;
 }
